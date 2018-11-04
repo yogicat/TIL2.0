@@ -16,4 +16,4 @@ We constantly learn new things. This is a repo to share those learnings. TILs ar
 
 | Date Finished | Activity                      | Links                                      |
 | ------------- | ----------------------------- | ------------------------------------------ |
-| 2018-11-03    | git format-patch & send-email | [GO](./GIT/git-format-parch-send-email.md) |
+| 2018-11-03    | git format-patch & send-email | [GO](./GIT/git-format-patch-send-email.md) |

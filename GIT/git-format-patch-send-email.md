@@ -30,10 +30,8 @@ To use git send-email to send your patches through the GMail SMTP server, edit `
 ## Send patches via send-email
 
 
-send each .patch file under the /patches folder.
 `git send-email  --to dahe.oh@gmail.com ./patches/*patch`
-
-
+- send each .patch file under the /patches folder.
 - `--smtp-debug=1` : use this for debug
 - `Please login via web browser and try again` error : check the google account setting - changed it to `enable less-secure apps` and it worked.
 - `sudo -H /usr/bin/cpan Net::SMTP::SSL` or `sudo -H cpan Net::SMTP::SSL` : when it throws `Can't locate Net/SMTP/SSL` error, you'll need to upgrade/inatall the `Net::SMTP::SSL`module.
