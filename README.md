@@ -1,19 +1,6 @@
-# Today I Learned 2.0
-
-Always take notes to not forget.
+# Today I Learned version 2
 
 
-
-```
-We constantly learn new things. This is a repo to share those learnings. TILs are short Markdown documents (a few sentences + example code) explaining concepts, bits of syntax, commands, or tips we've recently learned.
-
-- from thoughtbot.
-```
-
----
-
-## Daily Progress
-
-| Date Finished | Activity                      | Links                                      |
-| ------------- | ----------------------------- | ------------------------------------------ |
-| 2018-11-03    | git format-patch & send-email | [GO](./GIT/git-format-patch-send-email.md) |
+- 2019-03-10 [git and version control](./GIT/git-version-control.md)
+- 2019-03-10 [how does internet works](./INTERNET/how-does-internet-work.md)
+- 2018-11-03  [git format-patch & send-email](./GIT/git-format-patch-send-email.md)
