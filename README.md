@@ -1,18 +1,23 @@
 # Today I Learned v2
 
-**starting date**
+### Starting date
 
 2019-03-10
 
-**goal**
-
+### Goal
 to write TIL everyday
+
+### Study material links
+
+[resources](./resources.md)
 
 ---
 
 
 | Date       | Link                                                            |
 | ---------- | --------------------------------------------------------------- |
+| 2019-03-12 | [Grammer and Types](./JAVASCRIPT/Grammer-and-types.md)          |
+| 2019-03-12 | [Learn Javascript](./JAVASCRIPT/MDN-learn-javascript.md)        |
 | 2019-03-11 | [learn enough git](./GIT/learn-enough-git.md)                   |
 | 2019-03-10 | [git and version control](./GIT/git-version-control.md)         |
-| 2019-03-10 | [how does internet works](./INTERNET/how-does-internet-work.md) |
+| 2019-03-10 | [how does internet work?](./INTERNET/how-does-internet-work.md) |
