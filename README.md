@@ -16,6 +16,8 @@ to write TIL everyday
 
 | Date       | Link                                                            |
 | ---------- | --------------------------------------------------------------- |
+| 2019-03-14 | [React Hooks](./REACT/hooks.md)                                 |
+| 2019-03-13 | [Complete intro to react](./REACT/Complete-intro-to.react.md)   |
 | 2019-03-12 | [Grammer and Types](./JAVASCRIPT/Grammer-and-types.md)          |
 | 2019-03-12 | [Learn Javascript](./JAVASCRIPT/MDN-learn-javascript.md)        |
 | 2019-03-11 | [learn enough git](./GIT/learn-enough-git.md)                   |
