@@ -16,6 +16,9 @@ to write TIL everyday
 
 | Date       | Link                                                            |
 | ---------- | --------------------------------------------------------------- |
+|2019-03-24| Ruby Study|
+|2019-03-21| Algorithms |
+|2019-03-20| FrontendMasters - Javascript|
 | 2019-03-19 | [Ruby HackerRank 01](./RUBY/ruby-hackerrank-01.md)              |
 | 2019-03-18 | [Ruby Basics](./RUBY/ruby-basics.md)                            |
 | 2019-03-16 | started to study Ruby on codecademy                             |
