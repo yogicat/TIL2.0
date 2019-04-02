@@ -8,7 +8,6 @@
 - commit message -  present tense using the imperative mood. "initialize repository" (not "initializes repository, initialized repository)
 - "SHA" - Secure Hash Algorithm
 
-
 - - -
 
 ### Command line
